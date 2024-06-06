@@ -1,4 +1,4 @@
-package main_test
+package slicestudy_test
 
 import "testing"
 

@@ -1,6 +1,6 @@
 module github.com/gm0stache/slicestudy
 
-go 1.22.3
+go 1.22
 
 require github.com/stretchr/testify v1.9.0
 
